@@ -4,7 +4,7 @@ The National Family Health Survey (NFHS) is an India-wide survey conducted by th
 
 <h2> Objective </h2> 
 The Project's objectives  were to deliver the following requirements : 
-<img src="https://github.com/PraveenSharma95/A-Power-BI-Project/blob/main/Raw%20Data/Requirements.JPG" width="700" height="500" > </p>
+<img src="https://github.com/PraveenSharma95/A-Power-BI-Project/blob/main/Raw%20Data/Requirements.JPG" width="800" height="400" > </p>
 
 *The Excel file was provided as dataset where data contained the vaccination drive in India from NFHS-4 and NFHS-5 for the infants uptill age of 23 weeks for all the states and Union Territories. 
 
