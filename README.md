@@ -78,7 +78,7 @@ Data-cleaning was done in Power-Query Editor, and the analysis of data along wit
    2. FOR HEPATITIS B :     Gujarat had a growth of 46.3% while
                             Punjab grew least with -5.6%
 
-   3. For Polio :           Dadra and Nagar Haveli had the highest growth of 32.8% while
+   3. FOR POLIO :           Dadra and Nagar Haveli had the highest growth of 32.8% while
                             Punjab had the least growth of -14%
 
 *And Similarly for other vaccinations*
