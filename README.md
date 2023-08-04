@@ -83,6 +83,26 @@ Data-cleaning was done in Power-Query Editor, and the analysis of data along wit
 
 *And Similarly for other vaccinations*
 
+<br>
+<br>
+
+**Challenges and Learnings**
+   
+    
+    o The business requirement for the Geo-health survey was a new concept and difficult task to be delivered 
+      in fraction of hours for me.
+    
+    o Gained a live experience of working within stipulated time and as per business requirements of client. 
+    
+    o Explored and gained the knowledge about NFHS conducted by India.
+
+    o Learnt new techniques like linking two pages through navigation as asked by the client.
+  
+    	 
+    
+   
+    
+
 
     
 
